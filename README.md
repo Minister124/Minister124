@@ -55,7 +55,7 @@
         <img src="https://www.svgrepo.com/show/354267/dotnet.svg" alt="Identity Framework" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
-        <img src="[https://dotnet.microsoft.com/static/images/redesign/social-squared/maui.svg](https://th.bing.com/th/id/OIP.PP2-ZM65r4p4qsGRy-YEXAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain)" alt=".NET MAUI Blazor Hybrid" width="40" height="40"/>
+        <img src="https://th.bing.com/th/id/OIP.PP2-ZM65r4p4qsGRy-YEXAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain" alt=".NET MAUI Blazor Hybrid" width="40" height="40"/>
     </a>
 </p>
 
