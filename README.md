@@ -49,13 +49,13 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Express" width="40" height="40"/>
     </a>
     <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.bff726955422b89f94fe43534658a6d6?rik=ChqULRrcp36zGw&pid=ImgRaw&r=0" alt="Entity Framework" width="60" height="40" />
+    <img src="https://th.bing.com/th/id/R.bff726955422b89f94fe43534658a6d6?rik=ChqULRrcp36zGw&pid=ImgRaw&r=0" alt="Entity Framework" width="70" height="40" />
     </a>
     <a href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354267/dotnet.svg" alt="Identity Framework" width="40" height="40"/>
+        <img src="" alt="Identity Framework" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/OIP.PP2-ZM65r4p4qsGRy-YEXAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain" alt=".NET MAUI Blazor Hybrid" width="40" height="40"/>
+        <img src="https://th.bing.com/th/id/OIP.PP2-ZM65r4p4qsGRy-YEXAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain" alt=".NET MAUI Blazor Hybrid" width="70" height="40"/>
     </a>
 </p>
 
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/3oKIPa2TdahY8LA1ea/giphy.gif" alt="Happy" width="300"/>
+    <img src="https://th.bing.com/th/id/R.49105a1d1b48de9e779df63f09a57816?rik=R%2foa1CIoHzWdMQ&pid=ImgRaw&r=0" alt="Happy" width="300"/>
 </p>
 
 ---
