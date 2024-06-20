@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal Tamang</h1>
-<h3 align="center">Network Specialist and .NET Developer</h3>
+<h3 align="center">Network Enthusiatic and .NET Developer</h3>
 
 <p align="center">
     <img src="https://cdn.dribbble.com/users/121337/screenshots/1024835/loading2.gif" alt="Welcome Line" width="100%" height="3vh"/>
