@@ -48,7 +48,8 @@
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-editions-express" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Express" width="40" height="40"/>
     </a>
-    <img src="https://seeklogo.com/images/E/entity-framework-logo-FF3B2723A4-seeklogo.com.png" alt="Entity Framework" width="40" height="40" />
+    <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/R.bff726955422b89f94fe43534658a6d6?rik=ChqULRrcp36zGw&pid=ImgRaw&r=0" alt="Entity Framework" width="40" height="40" />
     </a>
     <a href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354267/dotnet.svg" alt="Identity Framework" width="40" height="40"/>
