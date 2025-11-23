@@ -1,101 +1,212 @@
-<h1 align="center">Hi 👋, I'm Kushal Tamang</h1>
-<h3 align="center">Network Enthusiast and .NET Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/121337/screenshots/1024835/loading2.gif" alt="Welcome Line" width="100%" height="3vh"/>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ██╗  ██╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██╗         ████████╗          ║
+║    ██║ ██╔╝██║   ██║██╔════╝██║  ██║██╔══██╗██║         ╚══██╔══╝          ║
+║    █████╔╝ ██║   ██║███████╗███████║███████║██║            ██║             ║
+║    ██╔═██╗ ██║   ██║╚════██║██╔══██║██╔══██║██║            ██║             ║
+║    ██║  ██╗╚██████╔╝███████║██║  ██║██║  ██║███████╗       ██║             ║
+║    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝       ╚═╝             ║
+║                                                                              ║
+║              ████████╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗         ║
+║              ╚══██╔══╝██╔══██╗████╗ ████║██╔══██╗████╗  ██║██╔════╝         ║
+║                 ██║   ███████║██╔████╔██║███████║██╔██╗ ██║██║  ███╗        ║
+║                 ██║   ██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║        ║
+║                 ██║   ██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝        ║
+║                 ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝         ║
+║                                                                              ║
+║          [ NETWORK ARCHITECT  •  .NET DEVELOPER  •  CYBER ENGINEER ]        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Minister124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Hello" width="300"/>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Minister124&label=SYSTEM%20ACCESS%20LOGS&color=00ff41&style=for-the-badge)](https://github.com/Minister124)
+[![LinkedIn](https://img.shields.io/badge/NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/kushal-tamang-7143b7215/)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=INITIALIZING+NEURAL+INTERFACE...;CONNECTING+TO+MAINFRAME...;ACCESS+GRANTED+%E2%96%BA+WELCOME+TRAVELER" alt="Typing Animation" />
 
-### About Me
-
-- 🔭 I’m currently working on [.NET-8](https://github.com/Minister124/.NET-8.git)
-- 🌱 I’m currently learning **IT Support Fundamentals and C++**
-- 👯 I’m looking to collaborate on [CafePointofSale](https://github.com/Minister124/CafePointofSale.git)
-- 🤝 I’m looking for help with [FoodBourg](https://github.com/Minister124/FoodBourg.git)
-- 👨‍💻 All of my projects are available at *no portfolio :-(* 
-- 📝 I regularly post on [LinkedIn](https://www.linkedin.com/in/kushal-tamang-7143b7215/)
-- 💬 Ask me about **.NET, C#, Network**
-- 📫 How to reach me: *kushaltmg321@gmail.com*
-- 📄 Know about my experience: *nothing yet :-(*
-
----
-
-### Languages and Tools
-
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-editions-express" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Express" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.bff726955422b89f94fe43534658a6d6?rik=ChqULRrcp36zGw&pid=ImgRaw&r=0" alt="Entity Framework" width="70" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/ASP.NET_Identity_Logo.png" alt="Identity Framework" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.PP2-ZM65r4p4qsGRy-YEXAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain" alt=".NET MAUI Blazor Hybrid" width="70" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### GitHub Stats
+## 🌐 『 SYSTEM DIAGNOSTICS 』
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minister124&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+```yaml
+status: ONLINE
+location: The Matrix
+current_mission:
+  - operation: ".NET-8 Development Protocol"
+    repo: "https://github.com/Minister124/.NET-8.git"
+    clearance: "MAXIMUM"
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minister124&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+training_modules:
+  - IT Support Fundamentals [███████░░░] 70%
+  - C++ Advanced Protocols [█████░░░░░] 50%
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minister124&" alt="GitHub Streak" />
-</p>
+collaboration_targets:
+  primary: "CafePointofSale System Integration"
+  repo: "https://github.com/Minister124/CafePointofSale.git"
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Minister124" alt="GitHub Trophies" />
-  </a> 
-</p>
+assistance_required:
+  project: "FoodBourg Infrastructure"
+  repo: "https://github.com/Minister124/FoodBourg.git"
+  priority: HIGH
+
+portfolio_status: "⚠️ UNDER CONSTRUCTION - DEPLOYING SOON..."
+experience_level: "JUNIOR OPERATIVE - GAINING FIELD EXPERIENCE"
+neural_network: "linkedin.com/in/kushal-tamang-7143b7215/"
+encrypted_channel: "kushaltmg321@gmail.com"
+```
 
 ---
 
-### Connect with me
+## 💻 『 TECH ARSENAL 』
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kushal-tamang-7143b7215/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Minister124" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Happy" width="300"/>
-</p>
+### ⚡ PRIMARY WEAPONS SYSTEMS
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="55" height="55" />
+<br><sub><b>.NET Core</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="55" height="55" />
+<br><sub><b>C# 12</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="55" height="55" />
+<br><sub><b>Blazor</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" />
+<br><sub><b>C++</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="55" height="55" />
+<br><sub><b>VS 2022</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55" />
+<br><sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://th.bing.com/th/id/R.bff726955422b89f94fe43534658a6d6?rik=ChqULRrcp36zGw&pid=ImgRaw&r=0" width="75" height="55" />
+<br><sub><b>EF Core</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://th.bing.com/th/id/OIP.PP2-ZM65r4p4qsGRy-YEXAHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain" width="75" height="55" />
+<br><sub><b>.NET MAUI</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ SPECIALIZED MODULES
+
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  ASP.NET Identity  │  Entity Framework  │  Blazor Hybrid   │
+│  ────────────────  │  ────────────────  │  ──────────────  │
+│   Authentication   │   ORM Mastery      │  Cross-Platform  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📊 『 PERFORMANCE METRICS 』
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Minister124&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Minister124&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&sideLabels=00FF41&dates=00FF41" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minister124&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&layout=compact" width="42%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Minister124&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%" />
+
+</div>
+
+---
+
+## 🎯 『 KNOWLEDGE BASE 』
+
+<div align="center">
+
+```diff
+@@  EXPERT SYSTEMS  @@
++ .NET Framework & .NET 8
++ C# Programming & OOP
++ Network Architecture & Protocols
++ Database Design & SQL Server
+
+@@  ACTIVE LEARNING  @@
+! IT Support Fundamentals
+! C++ Advanced Programming
+! System Administration
+
+@@  SPECIALIZATIONS  @@
+# ASP.NET Core Development
+# Blazor Web Assembly
+# Entity Framework Core
+# Identity Framework
+# Cross-Platform Development (MAUI)
+```
+
+</div>
+
+---
+
+## 🔗 『 ESTABLISH CONNECTION 』
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  [█] LINKEDIN  → Neural Professional Network    │
+│  [█] EMAIL     → Encrypted Communication Line   │
+│  [█] GITHUB    → Code Repository Access          │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/kushal-tamang-7143b7215/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:kushaltmg321@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Minister124)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  "In the digital realm, code is law and bugs are glitches     ║
+║   in the matrix. I'm here to patch the system."               ║
+║                                                                ║
+║                    - Kushal Tamang, Cyber Operative            ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+```ascii
+[████████████████████████████████] 100% PROFILE LOADED
+> AWAITING NEXT COMMAND...
+> _
+```
+
+</div>
